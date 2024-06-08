@@ -13,7 +13,7 @@ return {
 <template>
 
 
-    <h1 class="textColor">{{ message }}</h1>
+    <h1 class="textColor text-center p-3">{{ message }}</h1>
   
 
 </template>
